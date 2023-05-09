@@ -4,3 +4,4 @@ Changes  for conflicting merge
 For master branch... conflicting merge
 
 Rebasing conflict
+ set up rebasing for master branch
