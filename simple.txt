@@ -2,3 +2,5 @@ HTML File to test
 Changes  for conflicting merge
 
 For master branch... conflicting merge
+
+Rebasing conflict
