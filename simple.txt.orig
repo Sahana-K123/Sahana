@@ -1,7 +1,11 @@
-natepadHTML File to test
-<<<<<<< HEAD
+HTML File to test
+Changes  for conflicting merge
 
 For master branch... conflicting merge
+
+Rebasing conflict
+<<<<<<< HEAD
+ set up rebasing for master branch
 =======
-Changes  for conflicting merge
->>>>>>> realwork
+setup a rebasing conflict
+>>>>>>> 0c71e6e (Rebasing conflict for bigtrouble)
